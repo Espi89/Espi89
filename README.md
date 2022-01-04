@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate frontend developer from Argentina!</h3>
 
-- 🔭 I’m currently working on [Espinaca Dev (Freelance)]
+- 🔭 I’m currently working on [**Espinaca Dev** (Freelance)]
 
 - 🌱 I’m currently learning **ReactJS**
 
